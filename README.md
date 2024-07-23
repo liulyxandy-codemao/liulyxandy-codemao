@@ -8,3 +8,8 @@ I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a
 - 💻 I’m also a member of [@SO-TS](https://github.com/SO-TS) and [@blockScripterTeam](https://github.com/blockScripterTeam).
 - 🏫 I’m now studying at [Nanjing Zhongying Middle School (南京市钟英中学)](http://zyzx.njqhjy.net/).
 - 📫 Chat with me at [admin@liulyxandy.cn](mailto:admin@liulyxandy.cn).
+
+<div style="display: inline-flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=liulyxandy-codemao" alt="My GitHub Stats" style="height: 200px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liulyxandy-codemao&hide=scss&layout=compact" alt="Most used languages" style="height: 200px">
+</div>
