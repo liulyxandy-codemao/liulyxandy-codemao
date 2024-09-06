@@ -2,7 +2,7 @@
 
 I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a 13-year-old middle school student living in Nanjing, China.
 
-- 🔭 I’m currently working on [Cocotais Bot](https://github.com/cocotais/cocotais-bot) and it's [doc](https://github.com/cocotais/cocotais-bot-doc).
+- **⚠️ I’m busy these days. Contact me at weekends.**
 - 🦀 I’m learning Rust this year.
 - 🧑‍💻 I’m a member of [@cocotais](https://github.com/cocotais) Core Team.
 - 💻 I’m also a member of [@SO-TS](https://github.com/SO-TS) and [@blockScripterTeam](https://github.com/blockScripterTeam).
