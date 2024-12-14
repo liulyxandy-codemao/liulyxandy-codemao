@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a 13-year-old middle school student living in Nanjing, China.
+I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a 14-year-old middle school student living in Nanjing, China.
 
 - **⚠️ I’m busy these days. Contact me at weekends.**
 - 🦀 I’m learning Rust this year.
