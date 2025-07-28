@@ -2,8 +2,8 @@
 
 I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a 14-year-old middle school student living in Nanjing, China.
 
-- **⚠️ I'm busy these days. Contact me after 25/07/17.**
-- 🧑‍💻 I am developing a new project recently. Other developing activities are paused.
+- **🔥 Just finished [a](https://github.com/liulyxandy-codemao/ccdc25-files) [huge](https://github.com/liulyxandy-codemao/ccdc25-mail) [project](https://github.com/liulyxandy-codemao/ccdc25-otp). Now tired and sleeeeepy :(**
+- 🧑‍💻 I am busy recently. Developing activities are paused.
 - 🦀 I like Rust & TypeScript, and now I am developing [class-schedule](https://github.com/liulyxandy-codemao/class-schedule) with Tauri.
 - 🤖 I am learning Golang & Workerman Framework.
 - 💻 I am a member of [@cocotais](https://github.com/cocotais) Core Team and a developer of [@SO-TS](https://github.com/SO-TS).
