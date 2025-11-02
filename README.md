@@ -4,7 +4,7 @@ I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a
 
 - **🧑‍💻 I am busy recently. Developing activities are paused.**
 - 🦀 I like Rust & TypeScript, and now I am developing [class-schedule](https://github.com/liulyxandy-codemao/class-schedule) with Tauri.
-- 🤖 I am learning Golang & Workerman Framework.
+- 🤖 I am developing a chatbot framework.
 - 💻 I am a member of [@cocotais](https://github.com/cocotais) Core Team and a developer of [@SO-TS](https://github.com/SO-TS).
 - 🌐 My native language is Chinese, but I am also able to communicate in English and Japanese.
 - 🏫 I am now studying at [Nanjing Zhongying Middle School (南京市钟英中学)](http://zyzx.njqhjy.net/).
