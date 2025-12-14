@@ -2,6 +2,7 @@
 
 I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a 14-year-old middle school student living in Nanjing, China.
 
+- ⚠️ **I'm busy recently. Public developing activities are paused.**
 - 🦀 I like Rust & TypeScript, and I developed [class-schedule](https://github.com/liulyxandy-codemao/class-schedule) with Tauri.
 - 🤖 I am now developing a chatbot framework.
 - 💻 I am a member of [@cocotais](https://github.com/cocotais) Core Team and a developer of [@SO-TS](https://github.com/SO-TS).
