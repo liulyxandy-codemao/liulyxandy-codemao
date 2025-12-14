@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a 14-year-old middle school student living in Nanjing, China.
+I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a 15-year-old middle school student living in Nanjing, China.
 
 - ⚠️ **I'm busy recently. Public developing activities are paused.**
 - 🦀 I like Rust & TypeScript, and I developed [class-schedule](https://github.com/liulyxandy-codemao/class-schedule) with Tauri.
