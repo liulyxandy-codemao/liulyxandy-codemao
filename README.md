@@ -2,10 +2,10 @@
 
 I am [刘lyxAndy (liulyxandy-codemao)](https://github.com/liulyxandy-codemao), a 15-year-old middle school student living in Nanjing, China.
 
-- ⚠️ **I'm busy recently. Public developing activities are paused.**
+- ⚠️ **I'm busy recently. Contact me at weekends.**
 - 🦀 I like Rust & TypeScript, and I developed [class-schedule](https://github.com/liulyxandy-codemao/class-schedule) with Tauri.
-- 🤖 I am now developing a new chatbot framework in TypeScript.
-- 💻 I am a member of [@cocotais](https://github.com/cocotais) Core Team and a developer of [@SO-TS](https://github.com/SO-TS).
+- 🤖 I am now developing [Saukko.js](https://github.com/saukkojs/saukko), a chatbot framework.
+- 💻 I am a member of [@cocotais](https://github.com/cocotais) Core Team and a contributor of [@SO-TS](https://github.com/SO-TS).
 - 🌐 My native language is Chinese, but I am also able to communicate in English and Japanese.
 - 🏫 I am now studying at [Nanjing Zhongying Middle School (南京市钟英中学)](http://zyzx.njqhjy.net/).
 - 📫 Contact me at [Discussions](https://github.com/liulyxandy-codemao/liulyxandy-codemao/discussions) or [admin@liulyxandy.cn](mailto:admin@liulyxandy.cn).
